@@ -11,7 +11,7 @@ Check out the live demo here: [Dynamic Age Calculator](https://babureddynr.githu
 ![Age Calculator Main Interface](https://github.com/babureddynr/age-caclualtor/blob/main/_C__Users_reddy_OneDrive_Desktop_Age-Calcuator_index.html.png)
 *Main interface with gradient background*
 
-![Age Calculation Example](./screenshots/calculation-example.png)
+![Age Calculation Example](https://github.com/babureddynr/age-caclualtor/blob/main/_C__Users_reddy_OneDrive_Desktop_Age-Calcuator_index.html.png)
 *Example of real-time age calculation*
 
 <details>
