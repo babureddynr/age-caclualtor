@@ -4,7 +4,7 @@ A beautiful, interactive web application that calculates your exact age in years
 
 ## 🔴 Live Demo
 
-Check out the live demo here: [Dynamic Age Calculator](https://babureddynr.github.io/age-caclualtor/)
+Check out the live demo here: [Dynamic Age Calculator](https://babureddynr.github.io/age-calculator/)
 
 ## 📸 Screenshots
 
